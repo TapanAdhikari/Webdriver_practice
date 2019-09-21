@@ -1,0 +1,1 @@
+TestNG should be added for reporting and testing the test cases
